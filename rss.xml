@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[@andyschwartz]]></title>
         <description><![CDATA[@andyschwartz]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/andyschwartz/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 03:49:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 04 Feb 2016 03:49:47 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/andyschwartz/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The First Page]]></title>
             <description><![CDATA[<article><h1>The First Page</h1><p>Testing The Grid. I am not sure how I feel about this one bit. Took SO long to get my beta invite. Lets see what it can do. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa9f86293b227a03ce6b6996e3c7df8ecc32a02f.png"></article>]]></description>
-            <link>undefinedthe-first-page/index.html</link>
+            <link>https://thegrid.ai/andyschwartz/the-first-page/index.html</link>
             <guid isPermaLink="false">33d894cf-6a03-4f05-b5da-a6c9c594228c</guid>
             <pubDate>Thu, 04 Feb 2016 03:49:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[UGH]]></title>
+            <description><![CDATA[<article><h1>UGH</h1><p>Post 2 for the win!!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c7a329138710c023b3e83a8efefbb1b97e0fd4ea.png"></article>]]></description>
+            <link>https://thegrid.ai/andyschwartz/ugh/index.html</link>
+            <guid isPermaLink="false">f16a9c17-ff50-4cff-86fe-5e9a6fbcdf18</guid>
+            <pubDate>Thu, 04 Feb 2016 03:49:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
